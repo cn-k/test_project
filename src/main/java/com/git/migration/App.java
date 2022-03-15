@@ -1,4 +1,4 @@
-package com.git.migration.main;
+package com.git.migration;
 
 public class App {
     public static void main(String[] args) {
